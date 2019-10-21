@@ -1,2 +1,4 @@
 # Mason-Waste-and-Energy-Dashboard
-A challenge for PatriotHack.
+This project is an entry for the Mason Waste and Energy Dashboard challenge from the GMU Office of Sustainability during PatriotHack 2019. The challenge is to build a website or app which enables users to observe the live update of the energy consumption of the GMU community. Since my team did not have enough experience to build a website or app, we decided to build the visualization via Tableau and then consider integrating the visualization on a website. 
+
+To view the end product, simply download the "patriothack.twbx" onto a computer and open the file with Tableau. The file contains the data used for the visualization and a story page and a user-interactive dashboard page. To experience the full effect of the user-interactive dashboard, experiment with the filter parameters on the right corner of the dashboard. Users can control the campus, building, time, and energy type to view the breakdown of energy consumption for each combination. 
